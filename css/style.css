@@ -314,7 +314,7 @@ body {
 
 .for_date2 {
     border: 1px green dashed;
-    margin: -240px 615px;
+    margin: 300px 615px;
     text-align: justify;
     width: 75px;
     color: green;
@@ -322,8 +322,9 @@ body {
 
 }
 
-.text_3 {
-    margin: 240px 617px;
+.text__3 {
+    margin-top: -300px;
+    margin-left: 617px;
     text-align: justify-all;
     width: 270px;
     line-height: 25px;
@@ -335,8 +336,8 @@ body {
     background-repeat: no-repeat;
     width: 83px;
     height: 23px;
-    margin-top: -210px;
-    margin-left: 45px;
+    margin-top: 15px;
+    margin-left: 50px;
     position: absolute;
     border: none;
     z-index: 100;
@@ -347,8 +348,8 @@ body {
     background-image: url("images/btn_more.png");
     width: 83px;
     height: 23px;
-    margin-top: -210px;
-    margin-left: 590px;
+    margin-top: 15px;
+    margin-left: 600px;
     position: absolute;
     z-index: 100;
 
